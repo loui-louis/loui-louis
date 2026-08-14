@@ -26,7 +26,7 @@ $\color{#663a13}{\textsf{in}}$ $\color{#543b0e}{\textsf{the}}$ $\color{#695224}{
 
 <div id="header" align="center">
 
-<img align="center" src="https://64.media.tumblr.com/e408018c27becc15c4d40b31d7280829/e5dbcc88a5d1e73c-d3/s400x600/63d8af7bbe58030adc8f5ae140022134d387a487.gifv" width=250 /> <img align="center" src="https://64.media.tumblr.com/e461c0339373bbc9e0b26d519a2fe65b/812d45eab1480e39-f0/s250x400/e63a534f442233502311a3d03b601f11b90f878c.gifv" width=300 />
+<img align="center" src="https://64.media.tumblr.com/e408018c27becc15c4d40b31d7280829/e5dbcc88a5d1e73c-d3/s400x600/63d8af7bbe58030adc8f5ae140022134d387a487.gifv" width=230 /> <img align="center" src="https://64.media.tumblr.com/e461c0339373bbc9e0b26d519a2fe65b/812d45eab1480e39-f0/s250x400/e63a534f442233502311a3d03b601f11b90f878c.gifv" width=300 />
 
 <p align="center">
   
